@@ -1,98 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ridhima%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20Statistics%20%26%20ML%20%7C%20Data%20for%20Public%20Good&descAlignY=55&descSize=16"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ridhima+Gupta+%F0%9F%91%8B;Data+Scientist+%7C+Statistician;Health+%7C+Environment+%7C+Society)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=MSc+Statistics+with+Data+Science+%E2%80%94+Edinburgh;Former+Data+Analyst+%40+Accenture;Health+%7C+Environment+%7C+Society+through+Data;Statistical+Modelling+%7C+ML+%7C+Deep+Learning)](https://git.io/typing-svg)
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  MSc Statistics with Data Science · University of Edinburgh          ║
+║  BA(Hons) Economics & CS · University of Delhi · First Class Hons    ║
+║  MSc Financial Engineering · Worldquant University · In Progress     ║
+║  Former Data Analyst @ Accenture · 1M+ records analysed             ║
+║  Co-opted Member · Royal Statistical Society                         ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridhima1623@gmail.com)
-[![RSS](https://img.shields.io/badge/Royal%20Statistical%20Society-003087?style=for-the-badge&logoColor=white)](https://rss.org.uk/)
-[![Profile Views](https://komarev.com/ghpvc/?username=RidhimaGupta4&style=for-the-badge&color=6AD3F7&label=Profile+Views)](https://github.com/RidhimaGupta4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Email-ridhima1623%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridhima1623@gmail.com)
+[![RSS Member](https://img.shields.io/badge/Royal_Statistical_Society-Co--opted_Member-003087?style=for-the-badge)](https://rss.org.uk)
+[![Views](https://komarev.com/ghpvc/?username=RidhimaGupta4&label=Profile+Views&color=58A6FF&style=for-the-badge)](https://github.com/RidhimaGupta4)
 
 </div>
 
 ---
 
-<img align="right" alt="Data Science GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:10px"/>
-
-## 🧬 About Me
-
-I'm a **Data Scientist** with a strong foundation in **Statistics, Economics & Computer Science**, driven by one core belief: *data should serve people, not just profit.*
-
-My work spans **health informatics**, **environmental science**, and **financial analytics** — always end-to-end, always reproducible, always impact-focused.
-
-- 🎓 **MSc Statistics with Data Science** · University of Edinburgh *(Merit)*
-- 🎓 **BA(Hons) Economics** · University of Delhi *(First Class with Distinction)*
-- 📚 **MSc Financial Engineering** · Worldquant University *(Distinction — in progress)*
-- 💼 **Data Analyst @ Accenture** · Analysed 1M+ records · Built Power BI KPI dashboards
-- 🏛️ **Co-opted Member** · Royal Statistical Society
-- 🌍 Passionate about using data to address **health, environment & societal** challenges
-- 📍 Based in the **UK**
-
-<br clear="right"/>
-
----
-
-## 🔬 Featured Projects
-
-> *Click any project title to explore the full repository*
+## 🧬 Who Am I?
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%">
 
-### 🦋 [Freshwater Macroinvertebrates — National Trend Analysis](https://github.com/RidhimaGupta4/freshwater-macroinvertebrates)
+I'm a **Data Scientist** who genuinely believes that the most important questions in the world — about people's health, the environment we live in, the societies we build — can be approached more rigorously through data.
 
-**MSc Dissertation · Environment Agency Data · 30+ Years**
+My background spans **academic research** (30+ years of ecological monitoring data, industry-led seismic risk projects), **industry analytics** (1M+ transactional records at Accenture, Power BI dashboards reducing manual reporting by 25–30%), and **independent applied projects** across healthcare, NLP, experimentation, and predictive modelling.
 
-Analysed over three decades of Environment Agency freshwater biomonitoring records to identify national abundance trends in macroinvertebrate communities — key indicators of ecological and water quality health.
-
-Tackled real-world data challenges: mixed measurement formats, uneven sampling across sites and time periods, duplicates, and extensive missing values. Built reproducible preprocessing pipelines and applied **Generalised Additive Models (GAMs)** for trend estimation and ecological interpretation.
-
-`Python` · `GAMs` · `Pandas` · `Matplotlib` · `Statistical Modelling` · `Environmental Science`
+I don't just build models. I build **reproducible, interpretable, documented analytical workflows** that other people can actually use.
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" align="center">
 
-### 🌋 [Seismic Risk Monitoring — GAM-Based Analysis](https://github.com/RidhimaGupta4/seismic-risk-monitoring)
+**🎓 Education**
 
-**Industry-Led MSc Project · 10,000+ Observations**
+| Degree | Institution | Result |
+|---|---|---|
+| MSc Financial Engineering | Worldquant University | Distinction *(predicted)* |
+| MSc Statistics & Data Science | University of Edinburgh | Merit |
+| BA(Hons) Economics + CS | University of Delhi | First Class w/ Distinction |
 
-Collaborated on a real-world industry project to support seismic risk monitoring and regulatory assessment. Integrated operational and temporal variables from multiple heterogeneous data sources to build **interpretable GAM models** identifying key risk drivers.
-
-Involved complex preprocessing of multi-source time-series data, feature engineering, model validation, and communicating findings to non-technical stakeholders in a regulatory context.
-
-`Python` · `GAMs` · `Time Series` · `Feature Engineering` · `Risk Analytics` · `Industry Collaboration`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 [NHS A&E Wait Time Analysis](https://github.com/RidhimaGupta4/NHS-AE-Analysis)
-
-**Health Informatics · Public Data · Policy-Relevant Insights**
-
-Investigated seasonal demand patterns, attendance trends, and performance against the 4-hour target across NHS A&E departments in England. Surfaced systemic pressures relevant to health policy and service planning.
-
-Built a complete analytical pipeline from raw NHS open data through to clear, reproducible visualisations and written narrative findings.
-
-`Python` · `Pandas` · `Matplotlib` · `Seaborn` · `Time Series` · `Health Analytics`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 [A/B Testing — Statistical Experimentation Framework](https://github.com/RidhimaGupta4/AB-Testing-Case-Study)
-
-**Hypothesis Testing · Experimental Design · Power Analysis**
-
-End-to-end experimentation pipeline: experimental design, sample size & power analysis, hypothesis testing (t-tests, chi-squared, Mann-Whitney), and result interpretation — with explicit attention to p-hacking, peeking bias, and multiple comparisons.
-
-Focused on statistical rigour and communicating nuanced results clearly — skills directly relevant to evidence-based decision-making in research and industry settings.
-
-`Python` · `SciPy` · `Statsmodels` · `Pandas` · `Statistical Inference`
+**🏅 Certified by**
+Google · Harvard · Microsoft · Columbia · Michigan
 
 </td>
 </tr>
@@ -100,73 +55,156 @@ Focused on statistical rigour and communicating nuanced results clearly — skil
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🔬 Featured Research & Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Languages & Computing
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![R](https://skillicons.dev/icons?i=r)](https://r-project.org)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
+### 🦋 Freshwater Macroinvertebrates — National Trend Analysis
+**[→ View Repository](https://github.com/RidhimaGupta4/freshwater-macroinvertebrates)**
 
-### ML / Data Science Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+> *MSc Dissertation · 30+ Years · Environment Agency*
+
+England's rivers tell a story. Over three decades of Environment Agency biomonitoring records reveal long-term shifts in macroinvertebrate communities — sensitive indicators of ecological and water quality health.
+
+**The challenge:** Mixed measurement formats, inconsistent sampling across thousands of sites and time periods, duplicates, and extensive missing data.
+
+**The approach:** Built reproducible preprocessing pipelines, harmonised multi-source datasets, and applied **Generalised Additive Models (GAMs)** to estimate and interpret national abundance trends.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GAMs](https://img.shields.io/badge/GAMs-Statistical_Modelling-8B4513?style=flat-square)
+![Environment](https://img.shields.io/badge/Domain-Environmental_Science-2D7D46?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌋 Seismic Risk Monitoring — GAM-Based Analysis
+**[→ View Repository](https://github.com/RidhimaGupta4/seismic-risk-monitoring)**
+
+> *Industry-Led MSc Project · 10,000+ Observations · Regulatory Context*
+
+Real-world industry collaboration: support seismic risk monitoring and regulatory assessment by identifying key operational risk drivers from heterogeneous multi-source data.
+
+**The challenge:** Integrating operational and temporal variables from multiple sources with different structures, scales, and quality levels.
+
+**The approach:** Extensive preprocessing, feature engineering, **GAM-based interpretable modelling** to surface risk drivers and communicate findings to non-technical regulatory stakeholders.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time_Series-Analytics-E34F26?style=flat-square)
+![Industry](https://img.shields.io/badge/Domain-Risk_%26_Regulatory-7B2D8B?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 NHS A&E Wait Time Analysis
+**[→ View Repository](https://github.com/RidhimaGupta4/NHS-AE-Analysis)**
+
+> *Health Informatics · Public Data · Policy Insights*
+
+Seasonal demand, attendance patterns, and performance against the 4-hour target across NHS A&E departments in England. Built to surface systemic pressures relevant to real health policy decisions.
+
+Complete analytical pipeline from raw NHS open data through to clear, reproducible visualisations and written narrative findings accessible to non-specialists.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Health](https://img.shields.io/badge/Domain-Health_Informatics-C0392B?style=flat-square)
+![Public Good](https://img.shields.io/badge/Purpose-Public_Good-27AE60?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 A/B Testing — Experimentation Framework
+**[→ View Repository](https://github.com/RidhimaGupta4/AB-Testing-Case-Study)**
+
+> *Statistical Inference · Experimental Design · Power Analysis*
+
+A rigorous end-to-end experimentation framework: sample size calculation, power analysis, hypothesis testing (t-tests, chi-squared, Mann-Whitney U), and careful interpretation — with explicit handling of p-hacking, early peeking, and multiple comparisons.
+
+Built not just for the result, but to demonstrate *how to think* about statistical evidence.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-3B4D98?style=flat-square&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white)
+![Stats](https://img.shields.io/badge/Domain-Statistical_Inference-2980B9?style=flat-square)
 
-### Tools & Platforms
-[![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+</td>
+</tr>
+</table>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Machine Learning & Statistics**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3B4D98?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+**Data & Visualisation**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Tools**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com?user=RidhimaGupta4&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=RidhimaGupta4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhimaGupta4&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+| 🏅 | Certificate | Issued by | Year |
+|---|---|---|---|
+| ✅ | Financial Engineering & Risk Management | Columbia University (Coursera) | 2025 |
+| ✅ | Power BI Data Analyst Associate (PL-300) | Microsoft | 2024 |
+| ✅ | Data Analytics Professional Certificate | Google | 2024 |
+| ✅ | Professional Certificate in Data Science | Harvard University (edX) | 2024 |
+| ✅ | Applied Data Science with Python | University of Michigan | 2023 |
 
 </div>
 
 ---
 
-## 📜 Certifications & Training
+## 📊 GitHub Activity
 
-| Certificate | Provider | Year |
-|---|---|---|
-| 🏅 Financial Engineering & Risk Management | Columbia University (Coursera) | 2025 |
-| 🏅 Microsoft Certified: Power BI Data Analyst Associate (PL-300) | Microsoft | 2024 |
-| 🏅 Data Analytics Professional Certificate | Google | 2024 |
-| 🏅 Professional Certificate in Data Science | Harvard University (edX) | 2024 |
-| 🏅 Applied Data Science with Python Specialization | University of Michigan | 2023 |
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RidhimaGupta4&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+```
+╔══════════════════════════════════════════════════════════╗
+║  "Data is not just numbers — it's the stories of         ║
+║   people, ecosystems, and societies waiting to be heard." ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-*"Data is not just numbers — it's the stories of people, ecosystems, and societies waiting to be heard."*
-
-**Open to research collaborations · Health & environmental data science · Interdisciplinary projects**
+**🔗 Open to research collaborations · health informatics · environmental data science · interdisciplinary projects**
 
 </div>

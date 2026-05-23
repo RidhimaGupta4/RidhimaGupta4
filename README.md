@@ -29,7 +29,7 @@ My work spans **health informatics**, **environmental science**, and **financial
 - 💼 **Data Analyst @ Accenture** · Analysed 1M+ records · Built Power BI KPI dashboards
 - 🏛️ **Co-opted Member** · Royal Statistical Society
 - 🌍 Passionate about using data to address **health, environment & societal** challenges
-- 📍 Based in the **UK** · Graduate Visa (valid Jan 2028)
+- 📍 Based in the **UK**
 
 <br clear="right"/>
 

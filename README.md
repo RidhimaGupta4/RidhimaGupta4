@@ -7,8 +7,6 @@
 ║  MSc Statistics with Data Science · University of Edinburgh          ║
 ║  BA(Hons) Economics & CS · University of Delhi · First Class Hons    ║
 ║  MSc Financial Engineering · Worldquant University · In Progress     ║
-║  Former Data Analyst @ Accenture · 1M+ records analysed             ║
-║  Co-opted Member · Royal Statistical Society                         ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 

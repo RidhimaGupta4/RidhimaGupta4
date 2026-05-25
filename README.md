@@ -110,14 +110,6 @@ A rigorous experimentation framework — power analysis, experimental design, hy
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RidhimaGupta4&theme=tokyonight&hide_border=true&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
 </div>
 
 ---

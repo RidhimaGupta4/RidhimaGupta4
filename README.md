@@ -1,130 +1,95 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ridhima+Gupta+%F0%9F%91%8B;Data+Scientist+%7C+Statistician;Health+%7C+Environment+%7C+Society)](https://git.io/typing-svg)
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  MSc Statistics with Data Science · University of Edinburgh          ║
-║  BA(Hons) Economics & CS · University of Delhi · First Class Hons    ║
-║  MSc Financial Engineering · Worldquant University · In Progress     ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ridhima+%F0%9F%91%8B;I+turn+messy+data+into+meaningful+stories;Health+%C2%B7+Environment+%C2%B7+Society;Let's+explore+something+interesting+together)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Email-ridhima1623%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridhima1623@gmail.com)
-[![RSS Member](https://img.shields.io/badge/Royal_Statistical_Society-Co--opted_Member-003087?style=for-the-badge)](https://rss.org.uk)
+[![Gmail](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridhima1623@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=RidhimaGupta4&label=Profile+Views&color=58A6FF&style=for-the-badge)](https://github.com/RidhimaGupta4)
 
 </div>
 
 ---
 
-## 🧬 Who Am I?
+## 🙋‍♀️ A bit about me
 
-<table>
-<tr>
-<td width="55%">
+I care about questions that matter. Not just *can we build a model* — but *should we, and what does it actually tell us?*
 
-I'm a **Data Scientist** who genuinely believes that the most important questions in the world — about people's health, the environment we live in, the societies we build — can be approached more rigorously through data.
+I'm drawn to data problems in **health, the environment, and society** — places where the analysis is genuinely hard and the stakes are real. I love the full pipeline: getting my hands dirty with messy, incomplete, real-world data, building something rigorous and reproducible, and then communicating findings in a way that actually lands with people who need to act on them.
 
-My background spans **academic research** (30+ years of ecological monitoring data, industry-led seismic risk projects), **industry analytics** (1M+ transactional records at Accenture, Power BI dashboards reducing manual reporting by 25–30%), and **independent applied projects** across healthcare, NLP, experimentation, and predictive modelling.
-
-I don't just build models. I build **reproducible, interpretable, documented analytical workflows** that other people can actually use.
-
-</td>
-<td width="45%" align="center">
-
-**🎓 Education**
-
-| Degree | Institution | Result |
-|---|---|---|
-| MSc Financial Engineering | Worldquant University | Distinction *(predicted)* |
-| MSc Statistics & Data Science | University of Edinburgh | Merit |
-| BA(Hons) Economics + CS | University of Delhi | First Class w/ Distinction |
-
-**🏅 Certified by**
-Google · Harvard · Microsoft · Columbia · Michigan
-
-</td>
-</tr>
-</table>
+When I'm not doing that, I'm probably overthinking my Fantasy Premier League team 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
 ---
 
-## 🔬 Featured Research & Projects
+## 🔍 What I'm interested in
+
+```
+🧬  Patterns in ecological and environmental data
+🏥  How health systems perform under pressure
+📊  Building experiments that answer questions honestly
+🌊  Long-term trends in messy, real-world datasets
+🤖  ML that's interpretable, not just impressive
+📝  Documentation and reproducibility as a form of respect for other researchers
+```
+
+---
+
+## 🔬 Things I've built & explored
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🦋 Freshwater Macroinvertebrates — National Trend Analysis
-**[→ View Repository](https://github.com/RidhimaGupta4/freshwater-macroinvertebrates)**
+### 🦋 [Freshwater Macroinvertebrates](https://github.com/RidhimaGupta4/freshwater-macroinvertebrates)
+*What do 30 years of river monitoring data tell us about England's waterways?*
 
-> *MSc Dissertation · 30+ Years · Environment Agency*
+Dug into decades of Environment Agency biomonitoring records — messy, inconsistent, unevenly sampled — to find long-term shifts in macroinvertebrate communities. These tiny creatures are one of the most sensitive indicators of water quality we have.
 
-England's rivers tell a story. Over three decades of Environment Agency biomonitoring records reveal long-term shifts in macroinvertebrate communities — sensitive indicators of ecological and water quality health.
-
-**The challenge:** Mixed measurement formats, inconsistent sampling across thousands of sites and time periods, duplicates, and extensive missing data.
-
-**The approach:** Built reproducible preprocessing pipelines, harmonised multi-source datasets, and applied **Generalised Additive Models (GAMs)** to estimate and interpret national abundance trends.
+Built reproducible preprocessing pipelines from scratch and applied **Generalised Additive Models** to let the patterns speak for themselves.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GAMs](https://img.shields.io/badge/GAMs-Statistical_Modelling-8B4513?style=flat-square)
-![Environment](https://img.shields.io/badge/Domain-Environmental_Science-2D7D46?style=flat-square)
+![GAMs](https://img.shields.io/badge/GAMs-8B4513?style=flat-square)
+![Environment](https://img.shields.io/badge/🌿_Environmental-2D7D46?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌋 Seismic Risk Monitoring — GAM-Based Analysis
-**[→ View Repository](https://github.com/RidhimaGupta4/seismic-risk-monitoring)**
+### 🌋 [Seismic Risk Monitoring](https://github.com/RidhimaGupta4/seismic-risk-monitoring)
+*Can interpretable models help regulators understand what's driving seismic risk?*
 
-> *Industry-Led MSc Project · 10,000+ Observations · Regulatory Context*
+Industry collaboration: integrating operational and temporal variables from heterogeneous sources to surface what actually matters for risk assessment — and communicating that clearly to people who aren't data scientists.
 
-Real-world industry collaboration: support seismic risk monitoring and regulatory assessment by identifying key operational risk drivers from heterogeneous multi-source data.
-
-**The challenge:** Integrating operational and temporal variables from multiple sources with different structures, scales, and quality levels.
-
-**The approach:** Extensive preprocessing, feature engineering, **GAM-based interpretable modelling** to surface risk drivers and communicate findings to non-technical regulatory stakeholders.
+The interesting challenge here was making the model *explainable*, not just accurate.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Time Series](https://img.shields.io/badge/Time_Series-Analytics-E34F26?style=flat-square)
-![Industry](https://img.shields.io/badge/Domain-Risk_%26_Regulatory-7B2D8B?style=flat-square)
+![GAMs](https://img.shields.io/badge/GAMs-8B4513?style=flat-square)
+![Risk](https://img.shields.io/badge/🌋_Risk_Analytics-7B2D8B?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 NHS A&E Wait Time Analysis
-**[→ View Repository](https://github.com/RidhimaGupta4/NHS-AE-Analysis)**
+### 🏥 [NHS A&E Wait Time Analysis](https://github.com/RidhimaGupta4/NHS-AE-Analysis)
+*Where is the NHS under the most pressure, and when?*
 
-> *Health Informatics · Public Data · Policy Insights*
-
-Seasonal demand, attendance patterns, and performance against the 4-hour target across NHS A&E departments in England. Built to surface systemic pressures relevant to real health policy decisions.
-
-Complete analytical pipeline from raw NHS open data through to clear, reproducible visualisations and written narrative findings accessible to non-specialists.
+Explored attendance patterns, seasonal demand, and performance against the 4-hour standard across English A&E departments. Built to surface systemic pressures in a way that's accessible — not just to analysts, but to anyone who wants to understand how the health system is coping.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Health](https://img.shields.io/badge/Domain-Health_Informatics-C0392B?style=flat-square)
-![Public Good](https://img.shields.io/badge/Purpose-Public_Good-27AE60?style=flat-square)
+![Health](https://img.shields.io/badge/🏥_Health_Informatics-C0392B?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 A/B Testing — Experimentation Framework
-**[→ View Repository](https://github.com/RidhimaGupta4/AB-Testing-Case-Study)**
+### 🧪 [A/B Testing Framework](https://github.com/RidhimaGupta4/AB-Testing-Case-Study)
+*How do you run an experiment that actually means something?*
 
-> *Statistical Inference · Experimental Design · Power Analysis*
-
-A rigorous end-to-end experimentation framework: sample size calculation, power analysis, hypothesis testing (t-tests, chi-squared, Mann-Whitney U), and careful interpretation — with explicit handling of p-hacking, early peeking, and multiple comparisons.
-
-Built not just for the result, but to demonstrate *how to think* about statistical evidence.
+A rigorous experimentation framework — power analysis, experimental design, hypothesis testing, and honest interpretation. The focus is less on the result and more on how you *think* about evidence: avoiding p-hacking, early peeking, and the quiet dishonesty of underpowered tests.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Stats](https://img.shields.io/badge/Domain-Statistical_Inference-2980B9?style=flat-square)
+![Stats](https://img.shields.io/badge/📐_Statistical_Inference-2980B9?style=flat-square)
 
 </td>
 </tr>
@@ -132,55 +97,18 @@ Built not just for the result, but to demonstrate *how to think* about statistic
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
+## 🛠️ Tools I reach for
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Machine Learning & Statistics**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-3B4D98?style=for-the-badge)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
-**Data & Visualisation**
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Tools**
-
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3B4D98?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-| 🏅 | Certificate | Issued by | Year |
-|---|---|---|---|
-| ✅ | Financial Engineering & Risk Management | Columbia University (Coursera) | 2025 |
-| ✅ | Power BI Data Analyst Associate (PL-300) | Microsoft | 2024 |
-| ✅ | Data Analytics Professional Certificate | Google | 2024 |
-| ✅ | Professional Certificate in Data Science | Harvard University (edX) | 2024 |
-| ✅ | Applied Data Science with Python | University of Michigan | 2023 |
-
-</div>
 
 ---
 
@@ -188,7 +116,7 @@ Built not just for the result, but to demonstrate *how to think* about statistic
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RidhimaGupta4&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RidhimaGupta4&theme=tokyonight&hide_border=true&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -196,13 +124,6 @@ Built not just for the result, but to demonstrate *how to think* about statistic
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  "Data is not just numbers — it's the stories of         ║
-║   people, ecosystems, and societies waiting to be heard." ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-**🔗 Open to research collaborations · health informatics · environmental data science · interdisciplinary projects**
+*If you've made it this far — feel free to explore the repos, raise an issue, or just say hi.* 👋
 
 </div>

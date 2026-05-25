@@ -48,7 +48,7 @@ Dug into decades of Environment Agency biomonitoring records — messy, inconsis
 
 Built reproducible preprocessing pipelines from scratch and applied **Generalised Additive Models** to let the patterns speak for themselves.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-3776AB?style=flat-square&logo=r&logoColor=white)
 ![GAMMs](https://img.shields.io/badge/GAMMs-8B4513?style=flat-square)
 ![Environment](https://img.shields.io/badge/🌿_Environmental-2D7D46?style=flat-square)
 
@@ -62,7 +62,7 @@ Industry collaboration: integrating operational and temporal variables from hete
 
 The interesting challenge here was making the model *explainable*, not just accurate.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-3776AB?style=flat-square&logo=r&logoColor=white)
 ![GAMs](https://img.shields.io/badge/GAMs-8B4513?style=flat-square)
 ![Risk](https://img.shields.io/badge/🌋_Risk_Analytics-7B2D8B?style=flat-square)
 

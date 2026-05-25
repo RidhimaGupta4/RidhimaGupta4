@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridhima1623@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=RidhimaGupta4&label=Profile+Views&color=58A6FF&style=for-the-badge)](https://github.com/RidhimaGupta4)
+
 
 </div>
 

@@ -44,7 +44,7 @@ When I'm not doing that, I'm probably overthinking my Fantasy Premier League tea
 ### 🦋 [Freshwater Macroinvertebrates](https://github.com/RidhimaGupta4/freshwater-macroinvertebrates)
 *What do 30 years of river monitoring data tell us about England's waterways?*
 
-Dug into decades of Environment Agency biomonitoring records — messy, inconsistent, unevenly sampled — to find long-term shifts in macroinvertebrate communities. These tiny creatures are one of the most sensitive indicators of water quality we have.
+Dug into decades of Environment Agency biomonitoring records: messy, inconsistent, unevenly sampled; to find long-term shifts in macroinvertebrate communities. These tiny creatures are one of the most sensitive indicators of water quality we have.
 
 Built reproducible preprocessing pipelines from scratch and applied **Generalised Additive Models** to let the patterns speak for themselves.
 
@@ -58,7 +58,7 @@ Built reproducible preprocessing pipelines from scratch and applied **Generalise
 ### 🌋 [Seismic Risk Monitoring](https://github.com/RidhimaGupta4/seismic-risk-monitoring)
 *Can interpretable models help regulators understand what's driving seismic risk?*
 
-Industry collaboration: integrating operational and temporal variables from heterogeneous sources to surface what actually matters for risk assessment — and communicating that clearly to people who aren't data scientists.
+Industry collaboration: integrating operational and temporal variables from heterogeneous sources to surface what actually matters for risk assessment and communicating that clearly to people who aren't data scientists.
 
 The interesting challenge here was making the model *explainable*, not just accurate.
 
@@ -85,7 +85,7 @@ Explored attendance patterns, seasonal demand, and performance against the 4-hou
 ### 🧪 [A/B Testing Framework](https://github.com/RidhimaGupta4/AB-Testing-Case-Study)
 *How do you run an experiment that actually means something?*
 
-A rigorous experimentation framework — power analysis, experimental design, hypothesis testing, and honest interpretation. The focus is less on the result and more on how you *think* about evidence: avoiding p-hacking, early peeking, and the quiet dishonesty of underpowered tests.
+A rigorous experimentation framework: power analysis, experimental design, hypothesis testing, and honest interpretation. The focus is less on the result and more on how you *think* about evidence: avoiding p-hacking, early peeking, and the quiet dishonesty of underpowered tests.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)

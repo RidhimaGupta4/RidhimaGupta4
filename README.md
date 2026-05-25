@@ -58,7 +58,7 @@ Built reproducible preprocessing pipelines from scratch and applied **Generalise
 ### 🌋 [Seismic Risk Monitoring](https://github.com/RidhimaGupta4/seismic-risk-monitoring)
 *Can interpretable models help regulators understand what's driving seismic risk?*
 
-Industry collaboration: integrating operational and temporal variables from heterogeneous sources to surface what actually matters for risk assessment and communicating that clearly to people who aren't data scientists.
+Industry collaboration: integrating operational and temporal variables from heterogeneous sources to surface what actually matters for risk assessment and communicating that clearly to decision-makers and domain experts.
 
 The interesting challenge here was making the model *explainable*, not just accurate.
 

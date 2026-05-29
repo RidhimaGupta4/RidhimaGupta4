@@ -16,7 +16,7 @@
 
 I care about questions that matter. Not just *can we build a model* but *should we, and what does it actually tell us?*
 
-I'm drawn to data problems in **health, the environment, and society** — places where the analysis is genuinely hard and the stakes are real. I love the full pipeline: getting my hands dirty with messy, incomplete, real-world data, building something rigorous and reproducible, and then communicating findings in a way that actually lands with people who need to act on them.
+I'm drawn to data problems in **health, the environment, and society**, places where the analysis is genuinely hard and the stakes are real. I love the full pipeline: getting my hands dirty with messy, incomplete, real-world data, building something rigorous and reproducible, and then communicating findings in a way that actually lands with people who need to act on them.
 
 When I'm not doing that, I'm probably overthinking my Fantasy Premier League team 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 

@@ -71,7 +71,7 @@ The interesting challenge here was making the model *explainable*, not just accu
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 [NHS A&E Wait Time Analysis](https://github.com/RidhimaGupta4/NHS-AE-Analysis)
+### 🏥 [NHS A&E Wait Time Analysis](https://github.com/RidhimaGupta4/NHS-AE-Wait-Time-Analysis)
 *Where is the NHS under the most pressure, and when?*
 
 Explored attendance patterns, seasonal demand, and performance against the 4-hour standard across English A&E departments. Built to surface systemic pressures in a way that's accessible — not just to analysts, but to anyone who wants to understand how the health system is coping.

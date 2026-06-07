@@ -55,7 +55,7 @@ Built reproducible preprocessing pipelines from scratch and applied **Generalise
 </td>
 <td width="50%" valign="top">
 
-### 🌋 [Seismic Risk Monitoring](https://github.com/RidhimaGupta4/seismic-risk-monitoring)
+### 🌋 [Seismic Risk Monitoring](https://github.com/RidhimaGupta4/SeismicNoise)
 *Can interpretable models help regulators understand what's driving seismic risk?*
 
 Industry collaboration: integrating operational and temporal variables from heterogeneous sources to surface what actually matters for risk assessment and communicating that clearly to decision-makers and domain experts.

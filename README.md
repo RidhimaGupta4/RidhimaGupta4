@@ -41,7 +41,7 @@ When I'm not doing that, I'm probably overthinking my Fantasy Premier League tea
 <tr>
 <td width="50%" valign="top">
 
-### 🦋 [Freshwater Macroinvertebrates](https://github.com/RidhimaGupta4/freshwater-macroinvertebrates)
+### 🦋 [Freshwater Macroinvertebrates](https://github.com/RidhimaGupta4/FreshWaterMacroInvetebrates)
 *What do 30 years of river monitoring data tell us about England's waterways?*
 
 Dug into decades of Environment Agency biomonitoring records: messy, inconsistent, unevenly sampled; to find long-term shifts in macroinvertebrate communities. These tiny creatures are one of the most sensitive indicators of water quality we have.

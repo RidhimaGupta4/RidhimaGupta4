@@ -44,7 +44,7 @@ Tools:         Git/GitHub · Jupyter · R Markdown · Power BI · Tableau
 
 - 🎓 **MSc Statistics with Data Science** — University of Edinburgh | *Distinction dissertation*
 - 🎓 **MSc Financial Engineering** — WorldQuant University *(ongoing)*
-- 🎓 **BA (Hons) Economics** (Minor: CS) — Delhi University | *Distinction · Academic Excellence Award ×3*
+- 🎓 **BA (Hons) Economics** (Minor: CS) — University of Delhi | *Distinction · Academic Excellence Award ×3*
 - 🏅 **Edinburgh Award for Leadership** — University of Edinburgh, 2025
 
 ---

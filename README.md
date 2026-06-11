@@ -52,7 +52,7 @@ Tools:         Git/GitHub · Jupyter · R Markdown · Power BI · Tableau
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridhimagupta1623)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@ed.ac.uk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ridhima1623@gmail.com)
 
 ---
 *Interested in probabilistic modelling of sequential data, uncertainty quantification, and the application of statistical machine learning to real-world financial and environmental systems.*
